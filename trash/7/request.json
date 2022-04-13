@@ -1,0 +1,10 @@
+{
+  "FirstName": "Дмитрий",
+  "MiddleName": "Алексеевич",
+  "LastName": "Сафронов",
+  "BirthDate": "26.12.1996",
+  "Position": "Преподаватель",
+  "Image" : "image/user_avatar.jpg",
+  "Login" : "da_safronov",
+  "Password" : "A1b2Cd"
+}
